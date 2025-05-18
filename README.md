@@ -84,14 +84,22 @@ This project showcases a fully automated, production-grade data pipeline built o
 📂 cricket-snowflake-dw
 │
 ├── README.md
-├── task_flow.png
-├── sql/
-│   ├── raw_layer.sql
-│   ├── staging_layer.sql
+├── LICENSE
+├── diagrams/
+│   ├── Cricket Analytics Snowflake Project.png
+│   └── task_flow.png
+├── sample_data/
+│   └── sample data.json
+├── scripts/
 │   ├── dw_layer.sql
-│   └── ddl_all_tables.sql
-└── queries/
-    └── match_analysis_queries.sql
+│   ├── external_stage_snowpipe.sql
+│   ├── raw_layer.sql
+│   ├── sequences.sql
+│   ├── staging_layer.sql
+│   ├── staging_tasks.sql
+│   └── streams.sql
+├── utils/
+   └── truncate_all.sql
 ```
 
 ---
