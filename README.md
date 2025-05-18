@@ -95,12 +95,15 @@ This project showcases a fully automated, production-grade data pipeline built o
 
 ---
 
-### 🧠 Topics Covered
+### 🧠 Project Capabilities Demonstrated
 
-* Handling nested JSON at scale
-* Automating full ingestion + transformation pipeline
-* Writing maintainable SQL with complex logic
-* Managing SCD logic using `MERGE`, `ARRAY_CAT`, `ARRAY_DISTINCT`
+* Scalable ingestion of raw match data from AWS S3 using Snowpipe
+* Event-driven pipeline with native orchestration via Snowflake Tasks
+* Normalisation and flattening of complex, nested JSON structures
+* Star schema modelling optimised for analytical performance
+* Automated surrogate key generation and controlled dimensional joins
+* End-to-end execution without external orchestration frameworks
+*  Managing SCD logic using `MERGE`, `ARRAY_CAT`, `ARRAY_DISTINCT`
 * Scheduling DAGs using Snowflake native features (no Airflow needed)
 
 ---
