@@ -1,6 +1,4 @@
-### 🏏 Scalable Data Warehouse on Snowflake
-
-### 📌 Cricket Analytics Project Summary
+### 📌 Cricket Analytics Project Summary (Scalable Data Warehouse on Snowflake)
 
 This project showcases a fully automated, production-grade data pipeline built on Snowflake for cricket analytics. It ingests semi-structured match data in JSON format from AWS S3 using Snowpipe, processes it through Streams and Tasks, and transforms it into a clean, analytical star schema. The model includes fact and dimension tables capturing players, teams, matches, and ball-by-ball events. Key features include incremental loading, dynamic JSON flattening, surrogate key generation, SCD handling, and dependency-managed task orchestration, making it a scalable solution for real-time sports data warehousing and analysis.
 
