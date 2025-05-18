@@ -95,7 +95,7 @@ This project showcases a fully automated, production-grade data pipeline built o
 
 ---
 
-### 🧠 What I Learned
+### 🧠 Topics Covered
 
 * Handling nested JSON at scale
 * Automating full ingestion + transformation pipeline
