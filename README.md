@@ -102,7 +102,6 @@ This project showcases a fully automated, production-grade data pipeline built o
 * Normalisation and flattening of complex, nested JSON structures
 * Star schema modelling optimised for analytical performance
 * Automated surrogate key generation and controlled dimensional joins
-* End-to-end execution without external orchestration frameworks
 *  Managing SCD logic using `MERGE`, `ARRAY_CAT`, `ARRAY_DISTINCT`
 * Scheduling DAGs using Snowflake native features (no Airflow needed)
 
