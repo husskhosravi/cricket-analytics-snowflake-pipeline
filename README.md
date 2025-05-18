@@ -105,6 +105,5 @@ This project showcases a fully automated, production-grade data pipeline built o
 
 ### 🏁 Final Notes
 
-✅ Supports ODI, T20, Test, and Women’s leagues
 ✅ Easily extendable with dashboards or materialised views
 ✅ Plug-and-play with public cricket data from Cricsheet
