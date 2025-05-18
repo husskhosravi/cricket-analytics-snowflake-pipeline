@@ -105,5 +105,6 @@ This project showcases a fully automated, production-grade data pipeline built o
 
 ### ✍️ Final Notes
 This project was built to practice near-production ETL orchestration on Snowflake using real semi-structured sports data. All logic, dependencies, and schema design were implemented natively without third-party orchestration or transformation tools.
+
 ✅ Easily extendable with dashboards or materialised views
 ✅ Plug-and-play with public cricket data from [CricSheet](https://cricsheet.org/)
