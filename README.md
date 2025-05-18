@@ -95,7 +95,7 @@ This project showcases a fully automated, production-grade data pipeline built o
 
 ---
 
-### 🧠 Project Capabilities Demonstrated
+### ✅ Covered in this Project
 
 * Scalable ingestion of raw match data from AWS S3 using Snowpipe
 * Event-driven pipeline with native orchestration via Snowflake Tasks
