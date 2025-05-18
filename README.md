@@ -73,6 +73,8 @@ This project showcases a fully automated, production-grade data pipeline built o
 5. DW Layer loads using sequenced keys
 ```
 
+![task_flow](https://github.com/user-attachments/assets/034804c5-09cb-4bb0-967e-f15f89e82af3)
+
 ---
 
 ### 📁 Repo File Layout
