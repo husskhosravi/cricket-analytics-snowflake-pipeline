@@ -26,6 +26,8 @@ This project showcases a fully automated, production-grade data pipeline built o
 
 📌 **Visual pipeline:**
 
+![Cricket Analytics Snowflake Project](https://github.com/user-attachments/assets/c65fde7c-ff81-4a2c-90d6-daf15b9c9d8d)
+
 
 ---
 
