@@ -86,7 +86,7 @@ This project showcases a fully automated, production-grade data pipeline built o
 ├── README.md
 ├── LICENSE
 ├── diagrams/
-│   ├── Cricket Analytics Snowflake Project.png
+│   ├── cricket_analytics_snowflake_project.png
 │   └── task_flow.png
 ├── sample_data/
 │   └── sample data.json
